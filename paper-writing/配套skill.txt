@@ -1,0 +1,2 @@
+- chrome-devtools MCP（浏览器自动化检索）
+- doc-coauthoring、academic-paper-reviewer、docx skills
